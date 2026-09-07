@@ -7,5 +7,5 @@ luas = panjang * lebar
 keliling = 2 * (panjang + lebar)
 
 print("\n=== HASIL ===")
-print("Luas:", luas)
-print("Keliling:", keliling)
+print(f"Luas: {luas:.2f}")
+print(f"Keliling: {keliling:.2f}")
